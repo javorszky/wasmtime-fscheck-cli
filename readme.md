@@ -2,6 +2,8 @@
 
 This is a cli module per [the webassembly component model: creating a command component with `cargo component`](https://component-model.bytecodealliance.org/language-support/rust.html#creating-a-command-component-with-cargo-component).
 
+There is a [`wasmtime serve` version of this functionality here](https://github.com/javorszky/wasmtime-fscheck-serve).
+
 ## How to use this
 
 1. Have docker installed
